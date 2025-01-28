@@ -6,7 +6,7 @@
 
 <h3 align="left">About Me </h3>
 
-- 🌱 I’m currently learning **Advance Level React Js**
+- 🌱 I’m currently learning **Advance Level Go Lang**
 
 - ⚡ Fun fact: **I'm a huge anime fan and love diving into new series during my free time.**
 
