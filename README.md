@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Advance Level Go Lang**
 
-- 🌐 Check my portfolio at **daud.vercel.app**
+- 🌐 Check my portfolio at **[daud.vercel.app](https://daud.vercel.app/)**
 
 - ⚡ Fun fact: **I'm a huge anime fan and love diving into new series during my free time.**
 
