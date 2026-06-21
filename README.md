@@ -10,8 +10,6 @@
 
 - 🌐 Check my portfolio at **[daud.vercel.app](https://daud.vercel.app/)**
 
-- ⚡ Fun fact: **I'm a huge anime fan and love diving into new series during my free time.**
-
 - 📫 How to reach me: daudraja185@gmail.com
 
 <h3 align="left">Connect with me:</h3>
